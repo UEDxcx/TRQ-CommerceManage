@@ -9,7 +9,7 @@ import invite from '@/components/pages/home/tab/invite.vue'
 
 Vue.use(Router)
 
-export default new Router({
+export default new Router({ 
   routes: [
     {
       path: '/',
